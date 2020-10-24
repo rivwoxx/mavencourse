@@ -1,0 +1,5 @@
+com/rivwox/product/dao/ProductDAOImpl.class
+com/rivwox/product/bo/ProductBo.class
+com/rivwox/product/dao/ProductDAO.class
+com/rivwox/product/dto/Product.class
+com/rivwox/product/bo/ProductBOImpl.class
